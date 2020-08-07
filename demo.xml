@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hubsurl> <!--根标签-->
+    <url term="url0">
+		<page>
+			<address>www.google.com</address>
+		</page>
+        <address>www.google.com</address>
+    </url>
+     <url term="url1">
+        <address>www.baidu.com</address>
+    </url>
+	 <url term="url2">
+        <address>www.leetcode.com</address>
+    </url>
+	 <url term="url3">
+        <address>www.qq.com</address>
+    </url>
+</hubsurl>
